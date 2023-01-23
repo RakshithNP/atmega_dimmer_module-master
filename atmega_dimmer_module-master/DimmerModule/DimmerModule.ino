@@ -1,3 +1,4 @@
+// this is for 2module size dimmer which has a touch sense to control the brightness.
 #include "src/modlib/I2C.h"
 #include "src/modlib/energy_monitor.h"
 #include "Seeed_QTouch.h"
