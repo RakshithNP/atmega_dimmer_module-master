@@ -1,0 +1,3 @@
+[submodule "DimmerModule/src/modlib"]
+	path = DimmerModule/src/modlib
+	url = git@gitlab.com:next-labs/home/firmware/modlib.git
